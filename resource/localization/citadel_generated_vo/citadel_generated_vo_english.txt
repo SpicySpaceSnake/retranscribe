@@ -49465,7 +49465,7 @@
 		"magician_savannah_ping_nano_check_items_ping_2d"		"Check out what Calico bought"
 		"magician_savannah_ping_nano_dead_ping_2d"		"Calico is dead."
 		"magician_savannah_ping_need_help_blue_alt_ping_2d"		"Need help on Broadway!"
-		"magician_savannah_ping_need_help_green_ping_2d"		"Need help on Green!"
+		"magician_savannah_ping_need_help_green_ping_2d"		"Need help on green!"
 		"magician_savannah_ping_need_help_orange_ping_2d"		"Need help on orange!"
 		"magician_savannah_ping_need_help_orange_alt_ping_2d"		"Need help on Orchard!"
 		"magician_savannah_ping_need_help_yellow_alt_ping_2d"		"Need help on York!"
