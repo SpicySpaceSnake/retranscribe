@@ -70108,7 +70108,7 @@
 		"chessmaster_ping_gigawatt_dead_ping_2d"		"Seven is dead."
 		"chessmaster_ping_gigawatt_low_health_ping_2d"		"Seven's almost dead!"
 		"chessmaster_ping_gigawatt_missing_01_ping_2d"		"Seven's missing."
-		"chessmaster_ping_glitch_almost_ready_ping_2d"		"Cursed Relic is almost ready."f
+		"chessmaster_ping_glitch_almost_ready_ping_2d"		"Cursed Relic is almost ready."
 		"chessmaster_ping_glitch_not_ready_ping_2d"		"Cursed Relic is on cooldown."
 		"chessmaster_ping_going_in_ping_2d"		"Going in."
 		"chessmaster_ping_going_in_01_ping_2d"		"I'm going in!"
