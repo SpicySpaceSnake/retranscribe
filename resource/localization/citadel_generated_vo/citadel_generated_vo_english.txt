@@ -32932,7 +32932,7 @@
 		"wraith_match_start_dynamo_wraith_convo02_01_hero_zipline_3d"		"I don't suppose you're a gambling man Professor?"
 		"wraith_match_start_dynamo_wraith_convo02_03_hero_zipline_3d"		"Not a poker guy?"
 		"wraith_match_start_dynamo_wraith_convo03_02_hero_zipline_3d"		"I mean I've killed people but it's not like a recreational thing for me."
-		"wraith_match_start_dynamo_wraith_convo03_04_hero_zipline_3d"		"again, not a proffessional"
+		"wraith_match_start_dynamo_wraith_convo03_04_hero_zipline_3d"		"Again, not a professional."
 		"wraith_match_start_dynamo_wraith_convo03_06_hero_zipline_3d"		"Oh yeah"
 		"wraith_match_start_dynamo_wraith_convo03_08_hero_zipline_3d"		"I am often adjacent, yes."
 		"wraith_match_start_dynamo_wraith_convo03_10_hero_zipline_3d"		"Honey, I got you covered don't worry."
