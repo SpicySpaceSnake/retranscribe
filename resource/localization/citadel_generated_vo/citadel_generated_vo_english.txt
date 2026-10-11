@@ -19450,7 +19450,7 @@
 		"magician_henry_use_power2_06_ability_3d"		"Let’s get to work, Savannah."
 		"magician_henry_use_power2_07_ability_3d"		"Just like old times, Savannah!"
 		"magician_henry_use_power2_08_ability_3d"		"I’m counting on you, Savannah!"
-		"magician_henry_use_power2_09_ability_3d"		"Now where’s my assistant…"
+		"magician_henry_use_power2_09_ability_3d"		"Now, where’s my assistant…"
 		"magician_henry_use_power2_10_ability_3d"		"Savannah!"
 		"magician_henry_use_power3_01_ability_3d"		"Mmm… presto!"
 		"magician_henry_use_power3_02_ability_3d"		"Hop to it!"
