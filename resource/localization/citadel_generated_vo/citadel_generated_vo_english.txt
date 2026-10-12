@@ -52018,7 +52018,7 @@
 		"newscaster_headline_20_newscaster"		"The Supreme Court today upheld Cindermaw vs The State of Alabama, paving the way for the Spirit's congressional bid. Read all about in The New York Oracle"
 		"newscaster_headline_21_newscaster"		"Is dating in the 1900s too complicated? These 20-somethings tell all."
 		"newscaster_headline_22_newscaster"		"A memoir by Incubus to the stars, Mikhail Lesan, has spent 3 weeks on top of our best sellers list. Learn more about the book that has everyone talking in this week's edition of The New York Oracle."
-		"newscaster_headline_23_newscaster"		"The Tome of Anubis, once thought lost to sands of time, was preportedly spoted here in New York's black market. For this story and more, pick up your copy of The New York Oracle today!"
+		"newscaster_headline_23_newscaster"		"The Tome of Anubis, once thought lost to sands of time, was purportedly spotted here in New York's black market. For this story and more, pick up your copy of The New York Oracle today!"
 		"newscaster_headline_24_newscaster"		"\"Artifacts Of The Outer Planes\", a new exhibit at the MET, is gearing up to open next month. Read all about it in The New York Oracle"
 		"newscaster_headline_26_newscaster"		"Is New York ready for a new age of Mysticism? Only time will tell…"
 		"newscaster_headline_27_newscaster"		"Have love potions ruined dating? See what relationship expert \"Madame L'pree\" thinks"
