@@ -12877,7 +12877,7 @@
 		"gigawatt_kill_familiar_01_hero_3d"		"Pitiable creature."
 		"gigawatt_kill_familiar_02_hero_3d"		"I almost feel a twinge of guilt. Fascinating."
 		"gigawatt_kill_familiar_03_hero_3d"		"The figment is dead."
-		"gigawatt_kill_familiar_04_hero_3d"		"Better to die at my hands, then end up with the OSIC."
+		"gigawatt_kill_familiar_04_hero_3d"		"Better to die at my hands, than end up with the OSIC."
 		"gigawatt_kill_familiar_05_hero_3d"		"Sweet dreams, Rem."
 		"gigawatt_kill_fencer_01_hero_3d"		"Shioth valosh, Apollo."
 		"gigawatt_kill_fencer_02_hero_3d"		"I have stained my hands with the blood of kings."
