@@ -73408,10 +73408,20 @@
 		"yamato_ping_see_deadpack_02_ping_2d"		"I see the skeleton"
 		"yamato_ping_ult_ready_deadpack_ping_2d"		"Danny's ult is ready!"
 		"yamato_ping_with_deadpack_ping_2d"		"I'm with you, Danny!"
-
-		// Violet Update
-
-		"artist_match_start_artist_synth_convo02_07_hero_zipline_3d"		"206"
+		// Update_Violet Drop
+		"patron_female_big_healing_by_kelvin_alt_01_announcer"		"Thank you for tending to our wounds, Kelvin."
+		"patron_female_big_healing_by_kelvin_alt_02_announcer"		"With Kelvin's help, death will not find us."
+		"patron_male_ally_urn_delivered_02_announcer"		"The Urn is ours!"
+		"patron_male_big_healing_by_kelvin_alt_01_announcer"		"Thank you for tending to our wounds, Kelvin."
+		"patron_male_big_healing_by_kelvin_alt_02_announcer"		"With Kelvin's help, death will not find us."
+		"bebop_upgrade_power2_03_hero_3d"		"They'll be minding their own business like, \"Oh look at me, I'm not about to be murdered,\" and then BAM! Hook gets 'em."
+		"bebop_ping_jar_call_02_02_ping_2d"		"Soul Urn is here!"
+		"inferno_kill_forge_06_hero_3d"		"Fairfax Industries is overpaying you…"
+		"inferno_kill_forge_07_hero_3d"		"She may be a genius but she wasn't smart enough to stay home…"
+		"lash_ally_astro_killed_in_lane_02_hero_3d"		"They took out the Sheriff!"
+		"lash_ally_chrono_killed_in_lane_02_hero_3d"		"Paradox is dead!"
+		"lash_ally_inferno_killed_in_lane_02_hero_3d"		"They killed the bartender!"
+		"familiar_kill_unicorn_06_hero_3d"		"She smelt like peppermint."
 		"patron_female_ally_artist_killing_streak_01_announcer"		"Well done, Violet."
 		"patron_female_ally_artist_killing_streak_02_announcer"		"Yes, Violet, make them feel your power."
 		"patron_female_ally_artist_killing_streak_03_announcer"		"Your work elicits fear Violet."
@@ -75623,7 +75633,7 @@
 		"familiar_match_start_artist_familiar_convo03_01_hero_zipline_3d"		"Hey Violet, I have a question."
 		"familiar_match_start_artist_familiar_convo03_03_hero_zipline_3d"		"Do you usually dream about pipe cleaner men  chasing after you with pipe cleaner knives?"
 		"familiar_match_start_artist_familiar_convo03_05_hero_zipline_3d"		"When I heard you were gonna be in the ritual, I decided to invade your dreams, and they seem pretty fun!"
-		"familiar_match_start_artist_familiar_convo03_07_hero_zipline_3d"		"[blows raspberry]"
+		"familiar_match_start_artist_familiar_convo03_07_hero_zipline_3d"		"[raspberry]"
 		"familiar_ping_artist_above_ping_2d"		"Violet's above us!"
 		"familiar_ping_artist_almost_respawn_ping_2d"		"Violet is almost back."
 		"familiar_ping_artist_below_ping_2d"		"Violet's down there!"
