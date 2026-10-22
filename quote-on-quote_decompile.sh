@@ -50,6 +50,7 @@ main() {
 
         "\"shopkeeper_"
         "\"spirit_jar_"
+        "\"newscaster_"
 	)
 
     for candidate in "${characters[@]}"; do
