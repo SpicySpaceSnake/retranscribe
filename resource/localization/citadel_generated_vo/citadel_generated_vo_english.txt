@@ -8641,7 +8641,7 @@
 		"bookworm_ping_careful_nurse_01_ping_2d"		"Careful, Nurse…"
 		"bookworm_ping_nurse_missing_01_ping_2d"		"The Nurse's missing."
 		"bookworm_ping_see_nurse_ping_2d"		"I see the Nurse."
-		"bookworm_ping_see_nurse_ping_2d"		"I see the Nurse."		"chrono_ally_astro_bounce_pad_01_hero_3d"		"Thanks, Holliday."
+		"chrono_ally_astro_bounce_pad_01_hero_3d"		"Thanks, Holliday."
 		"chrono_ally_astro_bounce_pad_03_hero_3d"		"Woah god…"
 		"chrono_ally_astro_killed_in_lane_01_hero_3d"		"They shot the sheriff!"
 		"chrono_ally_atlas_big_stun_01_hero_3d"		"Abrams made his move!"
