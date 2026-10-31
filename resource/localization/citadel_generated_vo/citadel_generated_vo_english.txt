@@ -877,7 +877,6 @@
 		"patron_female_enemy_nurse_killing_streak_medium_01_announcer"		"Nurse Harrow must pay for her insolence."
 		"patron_female_help_out_nurse_announcer"		"The nurse requires a healer of her own."
 		"patron_female_many_assists_by_nurse_announcer"		"Harrow, your assistance has not been overlooked. Thank you."
-		"patron_female_praise_nurse_announcer"		"Well done Nurse Harrow"		"patron_male_ally_astro_killing_streak_01_announcer"		"Beautiful work, Holliday."
 		"patron_female_praise_nurse_announcer"		"Well done Nurse Harrow"
 		"patron_male_ally_astro_killing_streak_01_announcer"		"Beautiful work, Holliday."
 		"patron_male_ally_astro_killing_streak_02_announcer"		"Your grandfather would be proud, Holliday."
