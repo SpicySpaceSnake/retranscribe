@@ -56,7 +56,8 @@ main() {
 	)
 
 	for candidate in "${characters[@]}"; do
-			X+=$(cat ./characters/$candidate.txt)
+			X+="$(cat ./characters/$candidate.txt)
+"
 		done
 		echo "\"lang\"
 {
